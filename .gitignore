@@ -1,0 +1,14 @@
+# 构建产物
+src/*.exe
+src/*.pdb
+bin/
+obj/
+.vs/
+
+# 备份文件
+*.bak
+*.orig
+
+# 个人临时
+*.log
+*.tmp
